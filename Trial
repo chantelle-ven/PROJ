@@ -17,14 +17,6 @@ int main() {
 } {
         ans++;
     }
-    cout << ans << endl;
-    return 0;
-}
-    }
-    cout << ans << endl;
-    return 0;
-}
-    }
     }
     cout << ans << endl;
     return 0;
